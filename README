@@ -1,0 +1,3 @@
+	OPTCON is an algorithm for solving unconstrained control problems. It based on a study by Hager and Zhang, a new conjugate gradient method CG_DESCENT was produced. This algorithm can obtain even higher convergence speed than the ordinary conjugate gradient method and has relatively low memory requirement in computation.
+
+	For algorithm design and performance analysis please refer to OPTCON.pdf. Optcon1.0.tar.gz is the version 1 of the implementation using C. Website reference for this work, please visit here, http://clas.ufl.edu/users/hager/papers/Control/
